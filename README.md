@@ -7,3 +7,5 @@ Emergency fixes for AI-generated code, on demand. Built for non-developers using
 Status
 
 🚧 Early scaffold — hero section, pricing tiers, and intake form still in progress.
+
+// Todo: Add something
